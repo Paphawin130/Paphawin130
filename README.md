@@ -10,4 +10,4 @@
 <br />
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paphawin130&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paphawin130&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paphawin130&layout=compact)](https://github.com/Paphawin130/README.md)
