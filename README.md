@@ -10,5 +10,5 @@
 
 ---
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paphawin130&theme=radical) 
-[![Top Langs](https://discord.c99.nl/widget/theme-5/487238612056932368.png)
+[![Top Langs](https://discord.c99.nl/widget/theme-5/487238612056932368.png)]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paphawin130&theme=radical)](https://github.com/Paphawin130/README.md)
