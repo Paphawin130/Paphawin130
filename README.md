@@ -6,10 +6,9 @@
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 
-
 <br />
 <br />
-<img align="center" src="https://discord.c99.nl/widget/theme-5/487238612056932368.png"><br>
+<img align="center" src="https://discord.c99.nl/widget/theme-4/487238612056932368.png"><br>
 
 ---
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paphawin130&theme=radical) 
