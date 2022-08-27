@@ -8,7 +8,7 @@
 
 <br />
 <br />
-<img align="center" src="https://discord.c99.nl/widget/theme-4/487238612056932368.png"><br>
+[![Discord Presence](https://lanyard.cnrad.dev/api/487238612056932368)](https://discord.com/users/487238612056932368)
 
 ---
 
