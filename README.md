@@ -1,5 +1,5 @@
 # Hi there, I'm Tanny 
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/487238612056932368)](https://discord.com/users/487238612056932368)
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
@@ -8,7 +8,7 @@
 
 <br />
 <br />
-[![Discord Presence](https://lanyard.cnrad.dev/api/487238612056932368)]
+
 
 ---
 
