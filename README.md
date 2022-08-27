@@ -8,7 +8,7 @@
 
 <br />
 <br />
-[Discord Presence](https://lanyard.cnrad.dev/api/487238612056932368)
+[![Discord Presence](https://lanyard.cnrad.dev/api/487238612056932368)]
 
 ---
 
