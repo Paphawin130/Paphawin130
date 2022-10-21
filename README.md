@@ -1,7 +1,5 @@
 # Hi there, I'm Tanny 
 [![Discord Presence](https://lanyard.cnrad.dev/api/487238612056932368)](https://discord.com/users/487238612056932368)
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
 ###
 
 <div align="center">
