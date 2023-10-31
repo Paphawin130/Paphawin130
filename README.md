@@ -40,6 +40,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Paphawin/Paphawin/blob/output/snake.svg" alt="Snake animation" />
 
 ###
